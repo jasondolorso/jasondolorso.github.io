@@ -16,10 +16,14 @@
 
 ---
 [Exploring the use of BERT in Sentiment Analysis on Evaluation of Amazon Reviews](/pdf/sample_presentation.pdf)
+<img src="images/Stocks_ml.png?raw=true" width="500"/>
+
+---
+[Exploring the use of BERT in Sentiment Analysis on Evaluation of Amazon Reviews](/pdf/sample_presentation.pdf)
 <img src="images/Amazon.png?raw=true" width="500"/>
 
 ---
-[Rain, Rain, Go Away: Predicting the Chance of Rain in United Kingdom using data from Global Surface Summary of the Day](/pdf/sample_presentation.pdf)
+[Beating the Philippine Stock Market: A Machine Learning Approach to Portfolio Management](/pdf/sample_presentation.pdf)
 <img src="images/GSOD ML.png?raw=true" width="500"/>
 
 ---
