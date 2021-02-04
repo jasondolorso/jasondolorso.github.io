@@ -15,8 +15,12 @@
 <img src="images/Monet.gif?raw=true" height="400"/>
 
 ---
-[xploring the use of BERT in Sentiment Analysis of Evaluation of Amazon Reviews](/pdf/sample_presentation.pdf)
+[Exploring the use of BERT in Sentiment Analysis on Evaluation of Amazon Reviews](/pdf/sample_presentation.pdf)
 <img src="images/Amazon.png?raw=true" height="400"/>
+
+---
+[Rain, Rain, Go Away: Predicting the Chance of Rain in United Kingdom using data from Global Surface Summary of the Day](/pdf/sample_presentation.pdf)
+<img src="images/GSOD ML.png?raw=true" height="400"/>
 
 ---
 ### Category Name 2
