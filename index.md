@@ -3,7 +3,7 @@
 ---
 
 [CassavAI: Cassava Leaf Disease Detection](/sample_page)
-<img src="images/Cassava.png?raw=true"/>
+<img src="images/Cassava.png?raw=true" = 250x/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
