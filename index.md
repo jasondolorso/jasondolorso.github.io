@@ -15,7 +15,10 @@
 <img src="images/Monet.gif?raw=true" height="400"/>
 
 ---
+[xploring the use of BERT in Sentiment Analysis of Evaluation of Amazon Reviews](/pdf/sample_presentation.pdf)
+<img src="images/Amazon.png?raw=true" height="400"/>
 
+---
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
