@@ -3,7 +3,7 @@
 ---
 
 [CassavAI: Cassava Leaf Disease Detection](/sample_page)
-<img src="images/Cassava.png?raw=true" width="800" height="800"/>
+<img src="images/Cassava.png?raw=true" width="500" height="500"/>
 ---
 [Call of the Forest](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
