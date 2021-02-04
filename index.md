@@ -3,24 +3,24 @@
 ---
 
 [CassavAI: Cassava Leaf Disease Detection using Neural Networks using Neural Networks](/sample_page)
-<img src="images/Cassava.png?raw=true" height="400"/>
+<img src="images/Cassava.png?raw=true" width="500"/>
 
 ---
 [Call of the Forest: Detection of Animal Species in Tropical Soundscape](/pdf/sample_presentation.pdf)
-<img src="images/Rainforest.png?raw=true" height="400"/>
+<img src="images/Rainforest.png?raw=true" width="500"/>
 
 ---
 [Right on the Monet: Creating Monet-style art using CycleGAN](/pdf/sample_presentation.pdf)
 <img src="images/Monet2.png?raw=true" width="500"/>
-<img src="images/Monet.gif?raw=true" height="400"/>
+<img src="images/Monet.gif?raw=true" width="500"/>
 
 ---
 [Exploring the use of BERT in Sentiment Analysis on Evaluation of Amazon Reviews](/pdf/sample_presentation.pdf)
-<img src="images/Amazon.png?raw=true" height="400"/>
+<img src="images/Amazon.png?raw=true" width="500"/>
 
 ---
 [Rain, Rain, Go Away: Predicting the Chance of Rain in United Kingdom using data from Global Surface Summary of the Day](/pdf/sample_presentation.pdf)
-<img src="images/GSOD ML.png?raw=true" height="400"/>
+<img src="images/GSOD ML.png?raw=true" width="500"/>
 
 ---
 ### Category Name 2
