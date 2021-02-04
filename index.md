@@ -10,7 +10,7 @@
 <img src="images/Rainforest.png?raw=true" height="400"/>
 
 ---
-[Call of the Forest: Detection of Animal Species in Tropical Soundscape](/pdf/sample_presentation.pdf)
+[Right on the Monet: Creating Monet-style art using CycleGAN](/pdf/sample_presentation.pdf)
 <img src="images/Monet.gif?raw=true" height="400"/>
 
 ---
