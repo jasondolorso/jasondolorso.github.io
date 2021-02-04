@@ -11,7 +11,7 @@
 
 ---
 [Right on the Monet: Creating Monet-style art using CycleGAN](/pdf/sample_presentation.pdf)
-<img src="images/Monet2.png?raw=true" width="400"/>
+<img src="images/Monet2.png?raw=true" width="500"/>
 <img src="images/Monet.gif?raw=true" height="400"/>
 
 ---
