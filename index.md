@@ -2,11 +2,12 @@
 
 ---
 
-[CassavAI: Cassava Leaf Disease Detection](/sample_page)
+[CassavAI: Cassava Leaf Disease Detection using Neural Networks](/sample_page)
 <img src="images/Cassava.png?raw=true" height="400"/>
+
 ---
 [Call of the Forest](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Raiforest.png?raw=true" height="400"/>
 
 ---
 [Project 3 Title](http://example.com/)
