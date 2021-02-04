@@ -5,7 +5,7 @@
 [CassavAI: Cassava Leaf Disease Detection](/sample_page)
 <img src="images/Cassava.png?raw=true" width="800" height="800"/>
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Call of the Forest](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
