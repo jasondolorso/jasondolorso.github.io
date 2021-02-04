@@ -11,7 +11,7 @@
 
 ---
 [Call of the Forest: Detection of Animal Species in Tropical Soundscape](/pdf/sample_presentation.pdf)
-<img src="images/Monet.png?raw=true" height="400"/>
+<img src="images/Monet.gif?raw=true" height="400"/>
 
 ---
 
