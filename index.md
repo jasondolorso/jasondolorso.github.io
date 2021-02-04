@@ -7,7 +7,7 @@
 
 ---
 [Call of the Forest](/pdf/sample_presentation.pdf)
-<img src="images/Raiforest.png?raw=true" height="400"/>
+<img src="images/Rainforest.png?raw=true" height="400"/>
 
 ---
 [Project 3 Title](http://example.com/)
