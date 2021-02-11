@@ -25,10 +25,10 @@
 <img src="images/Airbnb_rs.png?raw=true" width="500"/>
 
 ---
-## Other Propjects
+### Other Projects
 ---
 
-### Machine Learning
+#### Machine Learning
 
 - [Rain, Rain, Go Away: Predicting the Chance of Rain using data from Global Surface Summary of the Day](http://example.com/)
 - [Strength in Numbers: Classifying NBA Player's Position from Game Stats using k-NN](http://example.com/)
@@ -36,7 +36,7 @@
 - [Rain, Rain, Go Away: Predicting the Chance of Rain using data from Global Surface Summary of the Day](http://example.com/)
 
 
-### Big Data, Data Mining, and Unsupervised Clustering
+#### Big Data, Data Mining, and Unsupervised Clustering
 
 - [Eyes on the Road! Uncovering Patterns in California’s Traffic Collisions using Advanced Data Mining](http://example.com/)
 - [Clustering Philippine Stocks based on Historical Price Movement](http://example.com/)
