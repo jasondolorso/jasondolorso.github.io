@@ -2,8 +2,8 @@
 
 ---
 
-[**CassavAI: Cassava Leaf Disease Detection using Neural Networks using Neural Networks**](/sample_page)
-<img src="images/Cassava.png?raw=true" width="500"/>
+[CassavAI: Cassava Leaf Disease Detection using Neural Networks](/sample_page)
+[<img src="images/Cassava.png?raw=true" width="500"/>](/sample_page)
 
 ---
 [Call of the Forest: Detection of Animal Species in Tropical Soundscape](/pdf/sample_presentation.pdf)
