@@ -2,7 +2,7 @@
 
 ---
 ### Highlighted Projects
-
+---
 [<img src="images/Cassava.png?raw=true" width="500"/>](/sample_page)
 
 ---
