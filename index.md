@@ -42,11 +42,11 @@
 - [May The Force Be With You: Analyzing the Difference in Rating System between IMDB and Rotten Tomatoes](http://example.com/)
 - [Land of the Rising Sun: Uncovering Clusters from Airbnb listings in Tokyo, Japan](http://example.com/)
 
-### Natural Language Processing
+#### Natural Language Processing
 - [Exploring the use of BERT in Sentiment Analysis of Evaluation of Amazon Reviews](http://example.com/)
 - [Scientometric Analysis of Academic Journals using Topic Modeling](http://example.com/)
 
-### Exploratory Data Analysis and Applied Computational Statistics
+#### Exploratory Data Analysis and Applied Computational Statistics
 - [A Global Warning: Assessing Effectiveness of Climate Change Solutions by analyzing Global Surface Summary of the Day](http://example.com/)
 - [Analysis on Customs Import Data: Manufacturing, Food, and Clothing as the Strongest Business Opportunities](http://example.com/)
 - [Thank Heaven for 7-Eleven: A Sales Analysis of a 7-Eleven Store in Metro Manila](http://example.com/)
