@@ -3,19 +3,15 @@
 ---
 ### Highlighted Projects
 
-[CassavAI: Cassava Leaf Disease Detection using Neural Networks](/sample_page)
 [<img src="images/Cassava.png?raw=true" width="500"/>](/sample_page)
 
 ---
-[Call of the Forest: Detection of Animal Species in Tropical Soundscape](/pdf/sample_presentation.pdf)
 [<img src="images/Rainforest.png?raw=true" width="500"/>](/sample_page)
 
 ---
-[Beating the Philippine Stock Market: A Machine Learning Approach to Portfolio Management](/pdf/sample_presentation.pdf)
 [<img src="images/Stocks_ml.png?raw=true" width="500"/>](/sample_page)
 
 ---
-[Right on the Monet: Creating Monet-style art using CycleGAN](/pdf/sample_presentation.pdf)
 [<img src="images/Monet2.png?raw=true" width="500"/>](/sample_page)
 [<img src="images/Monet.gif?raw=true" width="500"/>](/sample_page)
 
