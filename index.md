@@ -25,27 +25,27 @@
 
 #### Machine Learning
 
-- [Rain, Rain, Go Away: Predicting the Chance of Rain using data from Global Surface Summary of the Day](http://example.com/)
-- [Strength in Numbers: Classifying NBA Player's Position from Game Stats using k-NN](http://example.com/)
-- [Of the people, By the people, For the people: Pedicting US presidential polls using Machine Learning](http://example.com/)
-- [Rain, Rain, Go Away: Predicting the Chance of Rain using data from Global Surface Summary of the Day](http://example.com/)
+- [Rain, Rain, Go Away: Predicting the Chance of Rain using data from Global Surface Summary of the Day](/sample_page)
+- [Strength in Numbers: Classifying NBA Player's Position from Game Stats using k-NN](/sample_page)
+- [Of the people, By the people, For the people: Pedicting US presidential polls using Machine Learning](/sample_page)
+- [Rain, Rain, Go Away: Predicting the Chance of Rain using data from Global Surface Summary of the Day](/sample_page)
 
 
 #### Big Data, Data Mining, and Unsupervised Clustering
 
-- [Eyes on the Road! Uncovering Patterns in California’s Traffic Collisions using Advanced Data Mining](http://example.com/)
-- [Clustering Philippine Stocks based on Historical Price Movement](http://example.com/)
-- [May The Force Be With You: Analyzing the Difference in Rating System between IMDB and Rotten Tomatoes](http://example.com/)
-- [Land of the Rising Sun: Uncovering Clusters from Airbnb listings in Tokyo, Japan](http://example.com/)
+- [Eyes on the Road! Uncovering Patterns in California’s Traffic Collisions using Advanced Data Mining](/sample_page)
+- [Clustering Philippine Stocks based on Historical Price Movement](/sample_page)
+- [May The Force Be With You: Analyzing the Difference in Rating System between IMDB and Rotten Tomatoes](/sample_page)
+- [Land of the Rising Sun: Uncovering Clusters from Airbnb listings in Tokyo, Japan](/sample_page)
 
 #### Natural Language Processing
-- [Exploring the use of BERT in Sentiment Analysis of Evaluation of Amazon Reviews](http://example.com/)
-- [Scientometric Analysis of Academic Journals using Topic Modeling](http://example.com/)
+- [Exploring the use of BERT in Sentiment Analysis of Evaluation of Amazon Reviews](/sample_page)
+- [Scientometric Analysis of Academic Journals using Topic Modeling](/sample_page)
 
 #### Exploratory Data Analysis and Applied Computational Statistics
-- [A Global Warning: Assessing Effectiveness of Climate Change Solutions by analyzing Global Surface Summary of the Day](http://example.com/)
-- [Analysis on Customs Import Data: Manufacturing, Food, and Clothing as the Strongest Business Opportunities](http://example.com/)
-- [Thank Heaven for 7-Eleven: A Sales Analysis of a 7-Eleven Store in Metro Manila](http://example.com/)
+- [A Global Warning: Assessing Effectiveness of Climate Change Solutions by analyzing Global Surface Summary of the Day](/sample_page)
+- [Analysis on Customs Import Data: Manufacturing, Food, and Clothing as the Strongest Business Opportunities](/sample_page)
+- [Thank Heaven for 7-Eleven: A Sales Analysis of a 7-Eleven Store in Metro Manila](/sample_page)
 
 ---
 
