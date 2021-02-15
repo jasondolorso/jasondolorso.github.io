@@ -7,7 +7,7 @@
 [Punit, Naman](https://www.linkedin.com/in/naman-punit-42673319) | 
 [Romero, Matthew](https://www.linkedin.com/in/matmatromero) | 
 
-<img src="~/images/Cassava.png">
+<img src="../images/Cassava.png">
 
 ### Abstract
 
