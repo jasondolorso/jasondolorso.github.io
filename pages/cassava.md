@@ -1,11 +1,20 @@
 ## CassavAI: Cassava Leaf Disease Detection using Neural Networks
 
+<<<<<<< HEAD
 [Diego, Dennis Dominic](https://www.linkedin.com/in/dennis-dominic-diego),
 [Dolorso, Jason](https://www.linkedin.com/in/jasondolorso/),
 [Marcaida, Cymon](https://www.linkedin.com/in/cymonmarcaida/),
 [Punit, Naman](https://www.linkedin.com/in/naman-punit-42673319),
 [Romero, Matthew](https://www.linkedin.com/in/matmatromero)  
 **Asian Institute of Management**
+=======
+
+[Diego, Dennis Dominic](https://www.linkedin.com/in/dennis-dominic-diego) | 
+[Dolorso, Jason](https://www.linkedin.com/in/jasondolorso/) | 
+[Marcaida, Cymon](https://www.linkedin.com/in/cymonmarcaida/) | 
+[Punit, Naman](https://www.linkedin.com/in/naman-punit-42673319) | 
+[Romero, Matthew](https://www.linkedin.com/in/matmatromero) | 
+>>>>>>> 99bccdf161b378af91157f2e67320c965d2f23dd
 
 <img src="../images/Cassava.png">
 
