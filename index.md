@@ -6,7 +6,7 @@
 [<img src="images/Cassava.png?raw=true" width="500"/>](/pages/cassava.md)
 
 ---
-[<img src="images/Rainforest.png?raw=true" width="500"/>](/sample_page)
+[<img src="images/Rainforest.png?raw=true" width="500"/>](/pages/forest.md)
 
 ---
 [<img src="images/Stocks_ml.png?raw=true" width="500"/>](/sample_page)
