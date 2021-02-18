@@ -6,7 +6,7 @@
 [Matthew Romero](https://www.linkedin.com/in/matmatromero)  
 Asian Institute of Management
 
-[<img src="../images/Forest.png"/>](https://raw.githubusercontent.com/jasondolorso/jasondolorso.github.io/master/images/Cassava.png)
+[<img src="../images/Rainforest.png"/>](https://raw.githubusercontent.com/jasondolorso/jasondolorso.github.io/master/images/Rainforest.png)
 
 ### Executive Summary
 
