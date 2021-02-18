@@ -7,7 +7,7 @@
 [Matthew Romero](https://www.linkedin.com/in/matmatromero)  
 Asian Institute of Management
 
-<img src="../images/Cassava.png">
+[<img src="../images/Cassava.png"/>](https://raw.githubusercontent.com/jasondolorso/jasondolorso.github.io/master/images/Cassava.png)
 
 ### Abstract
 
