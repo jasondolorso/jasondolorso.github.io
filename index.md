@@ -9,15 +9,15 @@
 [<img src="images/Rainforest.png?raw=true" width="500"/>](/pages/forest.md)
 
 ---
-[<img src="images/Stocks_ml.png?raw=true" width="500"/>](/sample_page)
+[<img src="images/Stocks_ml.png?raw=true" width="500"/>](/pages/stocks_ml.md)
 
 ---
-[<img src="images/Monet2.png?raw=true" width="500"/>](/sample_page)
-[<img src="images/Monet.gif?raw=true" width="500"/>](/sample_page)
+[<img src="images/Monet2.png?raw=true" width="500"/>](/pages/stocks_ml.md)
+[<img src="images/Monet.gif?raw=true" width="500"/>](/pages/monet.md)
 
 ---
-[The City that Never Sleeps: Airbnb™ Recommender System for New York City](/pdf/sample_presentation.pdf)
-[<img src="images/Airbnb_rs.png?raw=true" width="500"/>](/sample_page)
+[The City that Never Sleeps: Airbnb™ Recommender System for New York City](/pages/airbnb_rs.md)
+[<img src="images/Airbnb_rs.png?raw=true" width="500"/>](/pages/airbnb_rs.md)
 
 ---
 ### Other Projects
