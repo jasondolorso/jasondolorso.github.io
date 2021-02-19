@@ -1,7 +1,15 @@
 title: <p align="center"> Jason A. Dolorso </p>
 logo: "/images/portrait3.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
+  
+  
+  <p align="center">
   Under construction. ETA Feb 19, 2021.
+  <br><br>
+  Master of Science in Data Science
+  <br>
+  Asian Institute of Management
+  </p>
   
   <p align="center">
   <a href="pdf/CV - Dolorso, Jason.pdf">Resume</a>  |
@@ -9,10 +17,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   </p>
   
   A Petroleum Engineer turned Data Scientist with the goal of empowering organizations in making data-driven decisions.
-  <br><br>
-  Master of Science in Data Science
-  <br>
-  Asian Institute of Management
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
