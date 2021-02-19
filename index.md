@@ -38,13 +38,12 @@
 - [Land of the Rising Sun: Uncovering Clusters from Airbnb listings in Tokyo, Japan](/pages/airbnb_tokyo.md)
 
 #### Natural Language Processing
-- [Exploring the use of BERT in Sentiment Analysis of Evaluation of Amazon Reviews](/sample_page)
-- [Scientometric Analysis of Academic Journals using Topic Modeling](/sample_page)
+- [Exploring the use of BERT in Sentiment Analysis of Evaluation of Amazon Reviews](/pages/amazon.md)
 
 #### Exploratory Data Analysis and Applied Computational Statistics
-- [A Global Warning: Assessing Effectiveness of Climate Change Solutions by analyzing Global Surface Summary of the Day](/sample_page)
-- [Analysis on Customs Import Data: Manufacturing, Food, and Clothing as the Strongest Business Opportunities](/sample_page)
-- [Thank Heaven for 7-Eleven: A Sales Analysis of a 7-Eleven Store in Metro Manila](/sample_page)
+- [A Global Warning: Assessing Effectiveness of Climate Change Solutions by analyzing Global Surface Summary of the Day](/pages/gsod_eda.md)
+- [Analysis on Customs Import Data: Manufacturing, Food, and Clothing as the Strongest Business Opportunities](/pages/customs.md)
+- [Thank Heaven for 7-Eleven: A Sales Analysis of a 7-Eleven Store in Metro Manila](/pages/711)
 
 ---
 
