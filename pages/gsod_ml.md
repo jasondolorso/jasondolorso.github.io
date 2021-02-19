@@ -4,7 +4,7 @@
 [Jason Dolorso](https://www.linkedin.com/in/jasondolorso/)  
 Asian Institute of Management
 
-[<img src="../images/Rainforest.png"/>](https://raw.githubusercontent.com/jasondolorso/jasondolorso.github.io/master/images/Rainforest.png)
+[<img src="../images/gsod_ml.png"/>](https://raw.githubusercontent.com/jasondolorso/jasondolorso.github.io/master/images/gsod_ml.png)
 
 ### Executive Summary
 
