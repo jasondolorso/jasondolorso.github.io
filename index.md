@@ -25,17 +25,18 @@
 
 #### Machine Learning
 
-- [**Rain, Rain, Go Away:**<br>Predicting the Chance of Rain using data from Global Surface Summary of the Day](/sample_page)
-- [**Strength in Numbers:**<br>Classifying NBA Player's Position from Game Stats using k-NN](/sample_page)
-- [**Of the people, By the people, For the people:**<br>Pedicting US presidential polls using Machine Learning](/sample_page)
+- [Rain, Rain, Go Away: Predicting the Chance of Rain using data from Global Surface Summary of the Day](/pages/gsod_ml.md)
+- [Strength in Numbers: Classifying NBA Player's Position from Game Stats using k-NN](/pages/nba.md)
+- [Of the people, By the people, For the people: Pedicting US presidential polls using Machine Learning](/sample_page)
+- [Rain, Rain, Go Away: Predicting the Chance of Rain using data from Global Surface Summary of the Day](/sample_page)
 
 
 #### Big Data, Data Mining, and Unsupervised Clustering
 
-- [**Eyes on the Road!**<br>Uncovering Patterns in California’s Traffic Collisions using Advanced Data Mining](/sample_page)
-- [**Clustering Philippine Stocks based on Historical Price Movement**](/sample_page)
-- [**May The Force Be With You:**<br>Analyzing the Difference in Rating System between IMDB and Rotten Tomatoes](/sample_page)
-- [**Land of the Rising Sun:**<br>Uncovering Clusters from Airbnb listings in Tokyo, Japan](/sample_page)
+- [Eyes on the Road! Uncovering Patterns in California’s Traffic Collisions using Advanced Data Mining](/sample_page)
+- [Clustering Philippine Stocks based on Historical Price Movement](/sample_page)
+- [May The Force Be With You: Analyzing the Difference in Rating System between IMDB and Rotten Tomatoes](/sample_page)
+- [Land of the Rising Sun: Uncovering Clusters from Airbnb listings in Tokyo, Japan](/sample_page)
 
 #### Natural Language Processing
 - [Exploring the use of BERT in Sentiment Analysis of Evaluation of Amazon Reviews](/sample_page)
