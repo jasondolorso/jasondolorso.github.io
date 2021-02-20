@@ -3,16 +3,16 @@
 [Jason Dolorso](https://www.linkedin.com/in/jasondolorso/)    
 Asian Institute of Management
 
-[<img src="../images/elections.png"/>](https://raw.githubusercontent.com/jasondolorso/jasondolorso.github.io/master/images/elections.png)
+[<img src="../images/Elections.png"/>](https://raw.githubusercontent.com/jasondolorso/jasondolorso.github.io/master/images/Elections.png)
 
 ### Executive Summary
+<p align="justify">
+With the next US presidential election set this November 3, the decision of whether Donald J Trump or Joseph R Biden Jr will sit on the oval office is just around the corner. Contrary to the usual election proces, United States employs an Electoral College process where electors representing each state casts the votes.
 
-With the next US presidential election set this November 3, the decision of whether Donald J Trump or Joseph R Biden Jr will sit on the oval office is just around the corner. Contrary to the usual election proces, United States employs an Electoral College process where electors representing each state casts the votes 1 .
-
-FiveThirtyEight, a leading poll analysis website, released their national polling averages ahead of the election. There are lots of presidential forecasts being published by different entities but what set FiveThirtyEight's apart is it uses aggregated polling data conducted by other firms and organizations, and also takes COVID-19 into account in their model 2 .
+FiveThirtyEight, a leading poll analysis website, released their national polling averages ahead of the election. There are lots of presidential forecasts being published by different entities but what set FiveThirtyEight's apart is it uses aggregated polling data conducted by other firms and organizations, and also takes COVID-19 into account in their model.
 
 This study aims to utilize features such as demographics, unemployment rate, approval rating, and previous election results, to create (1) a classifier to predict the outcome, and (2) a regressor to predict each candidates' percentages, based on FiveThirtyEight's polling averages per state.
-
+</p>
 ### Key highlights
 
 * US states are likely to vote the same party that they went for in 2016.

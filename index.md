@@ -12,7 +12,7 @@
 [<img src="banners/stocksbanner.png?raw=true" width="500"/>](/pages/stocks_ml.md)
 
 ---
-[<img src="banners/monetbanner.png?raw=true" width="500"/>](/pages/stocks_ml.md)
+[<img src="banners/monetbanner.png?raw=true" width="500"/>](/pages/monet.md)
 
 ---
 [<img src="banners/airbnbbanner.png?raw=true" width="500"/>](/pages/airbnb_rs.md)

@@ -4,13 +4,13 @@
 [Carlo T. Antioquia](https://www.linkedin.com/in/carlo-antioquia/),
 [Albertyn Nicolle S. Carpio](https://www.linkedin.com/in/albertyn-nicolle-carpio),
 [Jason A. Dolorso](https://www.linkedin.com/in/jasondolorso/), 
-[Chester Romel S. Patalud](https://www.linkedin.com/in/chesterromelpatalud),  
+[Chester Romel S. Patalud](https://www.linkedin.com/in/chesterromelpatalud)  
 Asian Institute of Management
 
 [<img src="../images/Stocks_dmw.png"/>](https://raw.githubusercontent.com/jasondolorso/jasondolorso.github.io/master/images/Stocks_dmw.png)
 
 ### Executive Summary
-
+<p align="justify">
 The stock market is one of the most common ways to earn passive income. However, the inevitable question we encounter when investing in stocks is: "Which stocks should we invest in?" The discussion to this question usually involves analyzing stocks on an industry basis (e.g. Is the banking industry good?) or on a company size basis (e.g. Are small-capitalization stocks in play right now?). These discussions often lead to a long and complicated discussion, likely ending with varying opinions from different people.
 
 But regardless of industry or company size, all discussions only seek to determine one thing -- whether a stock will go up or go down. Therefore, since everything just boils down to the movements in stock price and how they change in a certain timeframe, maybe there is a way for us to directly cluster stocks based on historical stock price movement, instead of the traditional classifications based on industry and company size.
@@ -44,7 +44,7 @@ As such, the main insight from this study is really to focus on looking at stock
 In summary, by using unsupervised clustering methods such as K-Medians clustering, we can derive insights from 12 years' worth of stock market data using a set of 18 features -- something that is not humanly possible to do manually. These clusters can be used by traders and investors to augment whatever their investment strategy is to increase their chances of making profits.
 
 Further studies can be done using supervised machine learning algorithms to specifically determine which stocks to pick from the Elite and Rising Stars cluster.
-
+</p>
 ---
 
 *Full text article and source codes can be provided upon request*.
