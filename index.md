@@ -2,7 +2,7 @@
 
 ---
 ### Highlighted Projects
----
+
 [<img src="banners/cassavabanner.png?raw=true" width="500"/>](/pages/cassava.md)
 
 ---
@@ -19,7 +19,6 @@
 
 ---
 ### Other Projects
----
 
 #### Machine Learning
 
