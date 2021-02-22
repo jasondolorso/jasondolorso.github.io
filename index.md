@@ -44,5 +44,5 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:11px"> Full text articles and source codes can be provided upon request; subject to approval of the entire project team (if any).</p>
 <!-- Remove above link if you don't want to attibute -->
