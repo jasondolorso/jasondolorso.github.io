@@ -20,6 +20,6 @@ stock market; stock trading; investment; portfolio management; algorithmic tradi
 
 ---
 
-*Full text article and source codes can be provided upon request*.
+*Note: Availability of source code for this project will be limited until further notice.*
 
 
