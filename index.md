@@ -1,4 +1,5 @@
 <meta name="image" property="og:image" content="[https://jasondolorso.github.io/images/thumbnail.png?raw=true]">
+<meta property='og:description' content='Jason Dolorso's Data Science Portfolio. A Petroleum Engineer turned Data Scientist with the goal of empowering organizations in making data-driven decisions.'/>
 
 ## Data Science Portfolio
 
