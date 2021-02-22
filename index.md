@@ -4,7 +4,7 @@
 <meta property="og:type" content="video.movie" />
 <meta property="og:url" content="https://www.imdb.com/title/tt0117500/" />
 <meta name="image" property="og:image" content="[https://jasondolorso.github.io/images/thumbnail.png?raw=true]">
-<meta property='og:description' content='Jason Dolorso's Data Science Portfolio. A Petroleum Engineer turned Data Scientist with the goal of empowering organizations in making data-driven decisions.'/>
+<meta property="og:description" content="Jason Dolorso's Data Science Portfolio. A Petroleum Engineer turned Data Scientist with the goal of empowering organizations in making data-driven decisions."/>
 </head>
 </html>
 
