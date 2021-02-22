@@ -20,6 +20,6 @@ stock market; stock trading; investment; portfolio management; algorithmic tradi
 
 ---
 
-*Note: Availability of source code for this project will be limited until further notice.*
+*Note: Availability of source codes for this project will be limited to the project team until further notice.*
 
 
