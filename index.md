@@ -1,3 +1,5 @@
+<meta name="image" property="og:image" content="[https://jasondolorso.github.io/images/thumbnail.png?raw=true]">
+
 ## Data Science Portfolio
 
 ---
