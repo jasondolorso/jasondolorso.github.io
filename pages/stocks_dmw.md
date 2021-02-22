@@ -19,18 +19,6 @@ In this report, we seek to explore the answer to the question: If we were to dev
 
 To answer this question, the team obtained historical daily trading information of all Philippine stocks from 2008 until August 14, 2020. The past 12 months data (Aug 2019 to Aug 2020) was collected from Investagrams website thru web scraping, while older historical data was shared to us by our friends in BOH Society and Stock Market Pilipinas , who have been diligently compiling daily data from the Philippine Stock Exchange in CSV format.
 
-Based on the raw historical data, the following 18 derived features were calculated for this study. We discuss each in more detail in the succeeding sections.
-
-Stock returns (5-day, 20-day, 65-day, 200-day)
-Distance to moving averages (10-day, 20-day, 50-day, 100-day)
-Slope of moving averages (20-day, 50-day, 100-day)
-Moving sum of net foreign flows (20-day, 65-day)
-Annualized volatility (20-day, 65-day)
-Relative strength index (RSI): 30-period setting
-Trading volume ratio (20-day vs 65-day)
-Average daily value turnover (65-day)
-For this study, only stocks whose 65-day average value turnover is greater than Php 5 million are included. Features were standardized, and then dimensionality was reduced using Principal Component Analysis, before clustering the data points using the K-Medians algorithm.
-
 With the results, we were able to identify 4 clusters. We briefly present these below, together with some of their main characteristics.
 
 Elite cluster. Stocks with highest returns, and rising volume.
@@ -47,6 +35,6 @@ Further studies can be done using supervised machine learning algorithms to spec
 </p>
 ---
 
-*Full text article and source codes can be provided upon request*.
+*Note: Availability of source codes for this project will be limited to the project team until further notice.*.
 
 
