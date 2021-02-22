@@ -20,6 +20,6 @@ defaults:
       path: ""
     values:
       image:
-        path: /images/thumbnail.jpg
+        path: /images/thumbnail.png
         height: 630
         width: 1200
