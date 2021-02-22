@@ -13,6 +13,9 @@ description:
   <br><br>
   </p>
 
+<meta name="image" property="og:image" content="[https://jasondolorso.github.io/images/thumbnail.png?raw=true]">
+<meta property='og:description' content='Jason Dolorso's Data Science Portfolio. A Petroleum Engineer turned Data Scientist with the goal of empowering organizations in making data-driven decisions.'/>
+
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
 defaults:
